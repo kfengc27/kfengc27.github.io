@@ -1,9 +1,9 @@
 # /_data/authors.yml
 
-Billy Rick:
+Chengbin Feng:
   name        : "Chengbin Feng"
   bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/chengbin.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
