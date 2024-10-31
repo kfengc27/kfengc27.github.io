@@ -5,7 +5,8 @@ main:
   - title: "Publications"
     url: https://kfengc27.github.io/publications/
   #   url: /year-archive/
-  # - title: "Sample Collections"
+  - title: "Blog"
+    url: https://kfengc27.github.io/blog/ 
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
