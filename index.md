@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: home
 title: "About Me"
+author_profile: true
+
 permalink: /
 ---
 ## About Me
