@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Chengbin Feng"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/chengbin.jpg"
+  bio              : "My name is Chengbin Feng, I like to explore the world from the perspective of mathematics and computers, and my interdisciplinary background has enriched my knowledge. In addition, I have a wide range of hobbies, can play some musical instruments and draw, and am good at playing basketball. To be an independent, professional, and cool researcher is my dream since Childhood, I am doing scientific research in The University of New South Wales right now."
+  location         : "Sydney, Australia"
   email            :
   links:
     - label: "Email"
@@ -130,7 +130,7 @@ author:
       url: "https://twitter.com/kfengc27"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/kfengc27"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kfengc27"
@@ -146,7 +146,7 @@ footer:
       url: "https://www.kfengc27.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/kfengc27"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kfengc27"
