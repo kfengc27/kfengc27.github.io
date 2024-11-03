@@ -1,12 +1,10 @@
-# main links
 main:
+  - title: "Home"
+    url: /
+    external: false
   - title: "About"
-    url: https://kfengc27.github.io/about/
-  - title: "Publications"
-    url: https://kfengc27.github.io/publications/
-  #   url: /year-archive/
-  - title: "Blog"
-    url: https://kfengc27.github.io/blog/ 
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
