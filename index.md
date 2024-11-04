@@ -31,7 +31,7 @@ I have a passion for exploring the world through the lenses of mathematics and c
 
 ## Entrepreneurial Experience
 
-I founded **Suyi Translation Pty Ltd (速译)**, a small business with a 4.9/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University in 2017.
+I founded **[Suyi Translation Pty Ltd (速译)](https://suyitranslation.com.au/)**, a small business with a 4.9/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University in 2017.
 
 ## Contact Information
 
