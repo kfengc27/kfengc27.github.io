@@ -19,12 +19,9 @@ I have a passion for exploring the world through the lenses of mathematics and c
 - Machine Learning
 - Neural Networks
 - Reinforcement Learning
-- Pattern Recognition
 - Data Mining
-- Computer Vision
-- Knowledge Representation
-- Parallel Computing
-- Large Language Model 
+- Large Language Model
+- Customer Needs  
 
 ## Current Projects
 - UNOVA AI Project with industry 2024 - "SDG expert chatbot."
