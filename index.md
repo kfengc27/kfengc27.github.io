@@ -24,6 +24,7 @@ I have a passion for exploring the world through the lenses of mathematics and c
 - Computer Vision
 - Knowledge Representation
 - Parallel Computing
+- Large Language Model 
 
 ## Current Projects
 
@@ -38,12 +39,12 @@ I have a passion for exploring the world through the lenses of mathematics and c
 
 ## Entrepreneurial Experience
 
-I founded **Suyi Translation Pty Ltd (速译)**, a small business with a 4.8/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University.
+I founded **Suyi Translation Pty Ltd (速译)**, a small business with a 4.9/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University in 2017.
 
 ## Contact Information
 
 - **Email**: [chengbin.feng@unsw.edu.au](mailto:chengbin.feng@unsw.edu.au)
-- **Email**: [chengbin.feng@outlook.com](mailto:chengbin.feng@outlook.com)
+- **Email**: [chengbin.feng@suyi.com.au](mailto:chengbin.feng@suyi.com.au)
 - **Postal Address**: PO BOX 6137, UNSW Sydney NSW 1466
 - **Office**: Level 3, Quadrangle, UNSW, Sydney 2052, Australia
 - **ORCID**: [0000-0002-4068-4828](https://orcid.org/0000-0002-4068-4828)
