@@ -27,14 +27,9 @@ I have a passion for exploring the world through the lenses of mathematics and c
 - Large Language Model 
 
 ## Current Projects
-
-- **Marketing School Collaboration**: Investigating how companies can offer personalized services based on customers’ psychological profiles.
-- **Medical School Collaboration**: Developing a radiomics model using features from breast intra- and peri-tumoral regions in dynamic contrast-enhanced (DCE) MRI to distinguish benign from malignant breast lesions, aiming to reduce unnecessary biopsies.
-- **Agricultural Application**: Applying fine-grained image classification technology in agriculture (2023 - present).
+- UNOVA AI Project with industry 2024 - "SDG expert chatbot."
 
 ## Teaching
-
-- MARK3054 Digital Marketing and Web Analytics
 - INFS5710 Information Technology Infrastructure for Business Analytics
 
 ## Entrepreneurial Experience
@@ -45,6 +40,4 @@ I founded **Suyi Translation Pty Ltd (速译)**, a small business with a 4.9/5.0
 
 - **Email**: [chengbin.feng@unsw.edu.au](mailto:chengbin.feng@unsw.edu.au)
 - **Email**: [chengbin.feng@suyi.com.au](mailto:chengbin.feng@suyi.com.au)
-- **Postal Address**: PO BOX 6137, UNSW Sydney NSW 1466
-- **Office**: Level 3, Quadrangle, UNSW, Sydney 2052, Australia
 - **ORCID**: [0000-0002-4068-4828](https://orcid.org/0000-0002-4068-4828)
