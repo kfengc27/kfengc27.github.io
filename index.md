@@ -35,6 +35,7 @@ I have a passion for exploring the world through the lenses of mathematics and c
 
 ## Working Experience 
 - UNSW Bizlab Programmer where I helped researchers develop experimental website via oTree/zTree 2020-2023
+- Beside my career in Academic, I also have explored how I can use software enginnering, machine learning, deep learning skills in several small and medium Sydney local firms (Kyperx,Roobuck, Creative Virtual etc ) 
 
 ## Entrepreneurial Experience
 
