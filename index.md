@@ -37,8 +37,8 @@ Ortmann, A.,Ryvkin, D.,Wilkening, T.,Zhang, J. (2023). Defaults and Cognitive Ef
 
 ## Entrepreneurial Experience
 I founded **[Suyi Translation Pty Ltd (速译)](https://suyitranslation.com.au/)**, a small business providing professional translation service with a 4.9/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University in 2017.
-- [Suyi Translation English Website https://suyitranslation.com.au/](https://suyitranslation.com.au/)
-- [Suyi Translation Chinese Website https://suyi.com.au/](https://suyi.com.au/)
+- [https://www.suyitranslation.com.au/(English)](https://www.suyitranslation.com.au/)
+- [https://www.suyi.com.au/(Chinese)](https://www.suyi.com.au/)
 
 ## Contact Information
 - **Email**: [chengbin.feng@unsw.edu.au](mailto:chengbin.feng@unsw.edu.au)
