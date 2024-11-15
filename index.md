@@ -35,7 +35,8 @@ I have a passion for exploring the world through the lenses of mathematics and c
 
 ## Working Experience 
 - UNSW Bizlab Programmer where I helped researchers develop experimental website via oTree/zTree 2020-2023
-- Beside my career in Academic, I also have explored how I can use software enginnering, machine learning, deep learning skills in several small and medium Sydney local firms (Kyperx,Roobuck, Creative Virtual etc ) 
+- Publications with my help of coding skills:
+Ortmann, A.,Ryvkin, D.,Wilkening, T.,Zhang, J. (2023). Defaults and Cognitive Effort In: Journal of Economic Behavior & Organization, 212, 1 - 19Using oTree/zTree to help researchers build experimental websites Publications with my help of coding skills: Ortmann, A.,Ryvkin, D.,Wilkening, T.,Zhang, J. (2023). Defaults and Cognitive Effort In: Journal of Economic Behavior & Organization, 212, 1 - 19
 
 ## Entrepreneurial Experience
 
