@@ -7,15 +7,12 @@ permalink: /
 ---
 
 # Welcome to My Blog
-
 Hello, I'm **Chengbin Feng**, currently conducting scientific research in Artificial Intelligence at The University of New South Wales (UNSW).
 
 ## About Me
-
 I have a passion for exploring the world through the lenses of mathematics and computer science. My interdisciplinary background has enriched my knowledge base, and I have a wide range of hobbies, including playing musical instruments, drawing, and basketball.
 
 ## Research Interests
-
 - Machine Learning
 - Neural Networks
 - Reinforcement Learning
@@ -36,10 +33,9 @@ I have a passion for exploring the world through the lenses of mathematics and c
 ## Working Experience 
 - UNSW Bizlab Programmer where I helped researchers develop experimental website via oTree/zTree 2020-2023
 - Publications with my help of coding skills:
-Ortmann, A.,Ryvkin, D.,Wilkening, T.,Zhang, J. (2023). Defaults and Cognitive Effort In: Journal of Economic Behavior & Organization, 212, 1 - 19Using oTree/zTree to help researchers build experimental websites Publications with my help of coding skills: Ortmann, A.,Ryvkin, D.,Wilkening, T.,Zhang, J. (2023). Defaults and Cognitive Effort In: Journal of Economic Behavior & Organization, 212, 1 - 19
+Ortmann, A.,Ryvkin, D.,Wilkening, T.,Zhang, J. (2023). Defaults and Cognitive Effort In: Journal of Economic Behavior & Organization, 212, 1 - 19
 
 ## Entrepreneurial Experience
-
 I founded **[Suyi Translation Pty Ltd (速译)](https://suyitranslation.com.au/)**, a small business providing professional translation service with a 4.9/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University in 2017.
 
 ## Contact Information
