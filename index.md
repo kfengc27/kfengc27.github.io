@@ -35,8 +35,8 @@ I have a passion for exploring the world through the lenses of mathematics and c
 - Publications with my help of coding skills:
 Ortmann, A.,Ryvkin, D.,Wilkening, T.,Zhang, J. (2023). Defaults and Cognitive Effort In: Journal of Economic Behavior & Organization, 212, 1 - 19
 
-## Entrepreneurial Experience
-I founded **[Suyi Translation Pty Ltd (速译)](https://suyitranslation.com.au/)**, a small business providing professional translation service with a 4.9/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University in 2017.
+## Real World Practice 
+I founded **[Suyi Translation Pty Ltd (速译)](https://suyitranslation.com.au/)**, an online market place providing professional translation service with a 4.9/5.0 Google Reviews rating, based on our class project “User Interaction Design and Experience” at Peking University in 2017.
 - [https://www.suyitranslation.com.au/(English)](https://www.suyitranslation.com.au/)
 - [https://www.suyi.com.au/(Chinese)](https://www.suyi.com.au/)
 
