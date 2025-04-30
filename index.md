@@ -29,6 +29,7 @@ I have a passion for exploring the world through the lenses of mathematics and c
 
 ## Publication 
 - Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises: A Depth Data Approach (Supervised by Dr. Songting Dong and Dr. Veronica Jiang)
+- A Joint Learning Framework for Bridging Defect Prediction and Interpretation 2025 
 
 ## Working Experience 
 - UNSW Bizlab Programmer where I helped researchers develop experimental website via oTree/zTree 2020-2023
