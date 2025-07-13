@@ -2,7 +2,7 @@
 author:
   name        : "Chengbin Feng"
   bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/chengbin.jpg"
+  avatar      : "/assets/images/chengbin.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
