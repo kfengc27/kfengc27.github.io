@@ -28,7 +28,9 @@ I have a passion for exploring the world through the lenses of mathematics and c
 - UNSW MARK3054 Marketing Analytics and Big Data  
 
 ## Publication 
-- Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises: A Depth Data Approach (Supervised by Dr. Songting Dong and Dr. Veronica Jiang)
+- **Leveraging Public Social Media Footprint to Predict Compliance
+Intentions During Global Crises: A Depth Data Approach** 
+
 - **A Joint Learning Framework for Bridging Defect Prediction and Interpretation**  
 *Guifang Xu, Chengbin Feng, Xingcheng Guo, Zhiling Zhu, Wei Wang*  
 *IEEE Transactions on Reliability, 2025*
