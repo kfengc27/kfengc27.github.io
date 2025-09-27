@@ -21,8 +21,7 @@ I have a passion for exploring the world through the lenses of mathematics and c
 - Customer Needs  
 
 ## Publication 
-
-- **Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises** 
+- **Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises: A Depth Data Approach** 
 *Chengbin Feng, Siyu Zhang, Zixi Jiang, Songting Dong*  
 *Australasian Marketing Journal, 2025*
 
