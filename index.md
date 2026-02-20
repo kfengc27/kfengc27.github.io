@@ -30,6 +30,7 @@ I have a passion for exploring the world through the lenses of mathematics and c
 *IEEE Transactions on Reliability, 2025*
 
 ## Teaching
+- UNSW INFS5720 Business Analytics Methods
 - UNSW INFS5710 Information Technology Infrastructure for Business Analytics
 - UNSW MARK3054 Marketing Analytics and Big Data  
 
