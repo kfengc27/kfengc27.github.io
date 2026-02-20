@@ -3,5 +3,7 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "contact"
+  - title: "Entrepreneurship"
+    url: /entrepreneurship/
+  - title: "Contact"
     url: /contact/ 
