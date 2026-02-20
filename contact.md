@@ -5,9 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Welcome to the New Tab!
-
-
 ## Contact Information
 - **Email**: [chengbin.feng@unsw.edu.au](mailto:chengbin.feng@unsw.edu.au)
 - **Email**: [chengbin.feng@suyi.com.au](mailto:chengbin.feng@suyi.com.au)

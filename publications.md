@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
-## Publication 
 - **[Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises: A Depth Data Approach](https://journals.sagepub.com/doi/10.1177/14413582251374709)**  
   Chengbin Feng, Siyu Zhang, Zixi Jiang, Songting Dong  
   *Australasian Marketing Journal*, 2025
