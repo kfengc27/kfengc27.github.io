@@ -25,7 +25,7 @@ I have a passion for exploring the world through the lenses of mathematics and c
   Chengbin Feng, Siyu Zhang, Zixi Jiang, Songting Dong  
   *Australasian Marketing Journal*, 2025
 
-- **A Joint Learning Framework for Bridging Defect Prediction and Interpretation**  
+- **[A Joint Learning Framework for Bridging Defect Prediction and Interpretation](https://ieeexplore.ieee.org/document/11095857/)**  
 *Guifang Xu, Chengbin Feng, Xingcheng Guo, Zhiling Zhu, Wei Wang*  
 *IEEE Transactions on Reliability, 2025*
 
