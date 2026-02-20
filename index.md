@@ -6,10 +6,8 @@ author_profile: true
 permalink: /
 ---
 
-# Welcome to My Blog
 Hello, I'm **Chengbin Feng**, currently conducting scientific research in Artificial Intelligence at The University of New South Wales (UNSW).
 
-## About Me
 I have a passion for exploring the world through the lenses of mathematics and computer science. My interdisciplinary background has enriched my knowledge base, and I have a wide range of hobbies, including playing musical instruments, drawing, and basketball.
 
 ## Research Interests
