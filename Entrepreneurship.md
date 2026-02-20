@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Entrepreneurship
 
-### 🚀 Suyi Translation (速译)
+### 🚀 Suyi Translation (速译) [https://www.suyitranslation.com](https://www.suyitranslation.com)
 
 Suyi Translation was originally co-founded in **2017** with my classmates as an extension of a university class assignment. What began as an academic project evolved into a cross-border digital translation platform serving international students and migrant communities.
 
