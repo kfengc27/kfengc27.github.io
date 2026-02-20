@@ -16,4 +16,4 @@ author_profile: true
 *IEEE Transactions on Reliability, 2025*
 
 
-🎓👉**[My Google Scholar Profile](https://scholar.google.com/citations?user=Jk7U4MwAAAAJ&hl=en&oi=a)**  
+🎓**[My Google Scholar Profile](https://scholar.google.com/citations?user=Jk7U4MwAAAAJ&hl=en&oi=a)**  
