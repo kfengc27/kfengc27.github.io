@@ -21,9 +21,9 @@ I have a passion for exploring the world through the lenses of mathematics and c
 - Customer Needs  
 
 ## Publication 
-- **Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises: A Depth Data Approach** 
-*Chengbin Feng, Siyu Zhang, Zixi Jiang, Songting Dong*  
-*Australasian Marketing Journal, 2025*
+- **[Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises: A Depth Data Approach](https://journals.sagepub.com/doi/10.1177/14413582251374709)**  
+  Chengbin Feng, Siyu Zhang, Zixi Jiang, Songting Dong  
+  *Australasian Marketing Journal*, 2025
 
 - **A Joint Learning Framework for Bridging Defect Prediction and Interpretation**  
 *Guifang Xu, Chengbin Feng, Xingcheng Guo, Zhiling Zhu, Wei Wang*  
