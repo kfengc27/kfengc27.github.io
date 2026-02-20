@@ -12,5 +12,9 @@ I currently serve as **Chief Technology Officer (CTO) and Board Director**, lead
 
 
 The platform now operates across Australia, Canada, American and Asia, supporting certified translation services (NAATI, ATIO, STIBC, ATA etc) in 90+ languages with both digital and physical delivery.
+- [https://www.suyitranslation.com](https://www.suyitranslation.com)
+- [https://www.suyitranslation.com.au/(English)](https://www.suyitranslation.com.au/)
+- [https://www.suyi.com.au/(Australia)](https://www.suyi.com.au/)
+- [https://www.suyi.ca(Canada)](https://www.suyi.ca/)
 
 This entrepreneurial journey informs my academic interests in AI adoption, digital platforms, and behavioural analytics.
