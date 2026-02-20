@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Contact Me
 permalink: /contact/
+author_profile: true
 ---
 
 # Welcome to the New Tab!
