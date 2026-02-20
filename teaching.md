@@ -3,7 +3,7 @@ layout: single
 title: "Teaching"
 author_profile: true
 
-permalink: /
+permalink: /teaching
 ---
 
 ## Teaching
